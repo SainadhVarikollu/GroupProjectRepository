@@ -1,0 +1,44 @@
+.header{
+    /* border:1px solid white; */
+    text-align: center;
+    width: 10%;
+    height: 10%;
+}
+.header-item{
+    border:2px solid white;
+    background-color: black;
+    color: white;
+    width: 10%;
+    font-size: 16px;
+}
+.header-item-row{
+    border:1px solid black;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    width: 10%;
+}
+.tableHeader{
+    
+}
+.main{
+    width: 100%;
+    height: 100vh;
+  /* background-color: aquamarine; */
+    background-image: url('https://img.freepik.com/premium-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: cover;
+
+}
+
+.data{
+  
+    margin-top: 2%;
+    padding: 10%;
+
+}
+
+
+

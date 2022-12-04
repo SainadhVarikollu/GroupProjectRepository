@@ -1,0 +1,25 @@
+.main{
+justify-content: center;
+
+}
+.mainGrid{
+    border:2px solid aqua;
+   
+}
+.input{
+    margin: 1%;
+    padding: 1%;
+}
+.button{
+    margin: 2%;
+    padding: 2%;
+}
+
+.mainDivlogin{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://www.capermint.com/wp-content/uploads/2020/07/Urban-Company-Service-Provider.jpg');
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: cover;
+}
